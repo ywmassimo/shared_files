@@ -6,12 +6,13 @@
 /client/data/settings_game
 client/pack/*.eix
 client/pack/*.epk
+client/*.exe
 ##########################################
 
 *.idb
-/*.plog
+*.plog
+*.pdb
 *.bak
 *.rar
-*.exe
 
 /tools/bin/
