@@ -1,0 +1,15 @@
+#############GENERAL##############
+/ccache
+/source/server/*.*
+/thirdparty/extension/make_proto_compiled/_out/
+/client/data/errors_list
+/client/data/settings_game
+##########################################
+
+*.idb
+/*.plog
+*.bak
+*.rar
+*.exe
+
+/tools/bin/
