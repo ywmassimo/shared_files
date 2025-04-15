@@ -4,6 +4,8 @@
 /thirdparty/extension/make_proto_compiled/_out/
 /client/data/errors_list
 /client/data/settings_game
+client/pack/*.eix
+client/pack/*.epk
 ##########################################
 
 *.idb
