@@ -3,10 +3,10 @@
 /source/server/*.*
 /thirdparty/extension/make_proto_compiled/_out/
 /client/data/errors_list
-/client/data/settings_game
 client/pack/*.eix
 client/pack/*.epk
-client/*.exe
+client/m2_x86_Release.exe
+client/m2_x86_Release.pdb
 ##########################################
 
 *.idb
